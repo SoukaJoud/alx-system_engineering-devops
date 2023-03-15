@@ -1,0 +1,1 @@
+Script 1 : Create an alias named ls for the commande rm*
